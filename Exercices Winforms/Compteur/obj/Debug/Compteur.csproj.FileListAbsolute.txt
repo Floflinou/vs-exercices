@@ -1,0 +1,9 @@
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Compteur\bin\Debug\Compteur.exe.config
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Compteur\bin\Debug\Compteur.exe
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Compteur\bin\Debug\Compteur.pdb
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Compteur\obj\Debug\Compteur.Form1.resources
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Compteur\obj\Debug\Compteur.Properties.Resources.resources
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Compteur\obj\Debug\Compteur.csproj.GenerateResource.cache
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Compteur\obj\Debug\Compteur.csproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Compteur\obj\Debug\Compteur.exe
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Compteur\obj\Debug\Compteur.pdb

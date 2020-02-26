@@ -1,0 +1,11 @@
+C:\Florian\Cours\Exercices VS\TP\bin\Debug\TP.exe.config
+C:\Florian\Cours\Exercices VS\TP\bin\Debug\TP.exe
+C:\Florian\Cours\Exercices VS\TP\bin\Debug\TP.pdb
+C:\Florian\Cours\Exercices VS\TP\bin\Debug\TP.xml
+C:\Florian\Cours\Exercices VS\TP\obj\Debug\TP.vbprojAssemblyReference.cache
+C:\Florian\Cours\Exercices VS\TP\obj\Debug\TP.Resources.resources
+C:\Florian\Cours\Exercices VS\TP\obj\Debug\TP.vbproj.GenerateResource.cache
+C:\Florian\Cours\Exercices VS\TP\obj\Debug\TP.vbproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\TP\obj\Debug\TP.exe
+C:\Florian\Cours\Exercices VS\TP\obj\Debug\TP.xml
+C:\Florian\Cours\Exercices VS\TP\obj\Debug\TP.pdb

@@ -1,0 +1,11 @@
+C:\Florian\Cours\Exercices VS\Exo Tableaux\bin\Debug\Exo Tableaux.exe.config
+C:\Florian\Cours\Exercices VS\Exo Tableaux\bin\Debug\Exo Tableaux.exe
+C:\Florian\Cours\Exercices VS\Exo Tableaux\bin\Debug\Exo Tableaux.pdb
+C:\Florian\Cours\Exercices VS\Exo Tableaux\bin\Debug\Exo Tableaux.xml
+C:\Florian\Cours\Exercices VS\Exo Tableaux\obj\Debug\Exo 6.1.vbprojAssemblyReference.cache
+C:\Florian\Cours\Exercices VS\Exo Tableaux\obj\Debug\Exo_Tableaux.Resources.resources
+C:\Florian\Cours\Exercices VS\Exo Tableaux\obj\Debug\Exo 6.1.vbproj.GenerateResource.cache
+C:\Florian\Cours\Exercices VS\Exo Tableaux\obj\Debug\Exo 6.1.vbproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\Exo Tableaux\obj\Debug\Exo Tableaux.exe
+C:\Florian\Cours\Exercices VS\Exo Tableaux\obj\Debug\Exo Tableaux.xml
+C:\Florian\Cours\Exercices VS\Exo Tableaux\obj\Debug\Exo Tableaux.pdb

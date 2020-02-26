@@ -1,0 +1,10 @@
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Agglutinez-vous\bin\Debug\Agglutinez-vous.exe.config
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Agglutinez-vous\bin\Debug\Agglutinez-vous.exe
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Agglutinez-vous\bin\Debug\Agglutinez-vous.pdb
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Agglutinez-vous\obj\Debug\Agglutinez-vous.csprojAssemblyReference.cache
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Agglutinez-vous\obj\Debug\Agglutinez_vous.Form1.resources
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Agglutinez-vous\obj\Debug\Agglutinez_vous.Properties.Resources.resources
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Agglutinez-vous\obj\Debug\Agglutinez-vous.csproj.GenerateResource.cache
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Agglutinez-vous\obj\Debug\Agglutinez-vous.csproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Agglutinez-vous\obj\Debug\Agglutinez-vous.exe
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Agglutinez-vous\obj\Debug\Agglutinez-vous.pdb

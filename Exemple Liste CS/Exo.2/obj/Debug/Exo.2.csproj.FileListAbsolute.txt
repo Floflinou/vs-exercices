@@ -1,0 +1,6 @@
+C:\Florian\Cours\Exercices VS\Exemple Liste CS\Exo.2\bin\Debug\Exo.2.exe.config
+C:\Florian\Cours\Exercices VS\Exemple Liste CS\Exo.2\bin\Debug\Exo.2.exe
+C:\Florian\Cours\Exercices VS\Exemple Liste CS\Exo.2\bin\Debug\Exo.2.pdb
+C:\Florian\Cours\Exercices VS\Exemple Liste CS\Exo.2\obj\Debug\Exo.2.csproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\Exemple Liste CS\Exo.2\obj\Debug\Exo.2.exe
+C:\Florian\Cours\Exercices VS\Exemple Liste CS\Exo.2\obj\Debug\Exo.2.pdb

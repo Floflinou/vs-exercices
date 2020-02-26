@@ -1,0 +1,9 @@
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Telecommande\bin\Debug\Telecommande.exe.config
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Telecommande\bin\Debug\Telecommande.exe
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Telecommande\bin\Debug\Telecommande.pdb
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Telecommande\obj\Debug\Telecommande.Form1.resources
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Telecommande\obj\Debug\Telecommande.Properties.Resources.resources
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Telecommande\obj\Debug\Telecommande.csproj.GenerateResource.cache
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Telecommande\obj\Debug\Telecommande.csproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Telecommande\obj\Debug\Telecommande.exe
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Telecommande\obj\Debug\Telecommande.pdb

@@ -1,0 +1,11 @@
+C:\Florian\Cours\Exercices VS\CHAN-THU Florian\bin\Debug\CHAN-THU Florian.exe.config
+C:\Florian\Cours\Exercices VS\CHAN-THU Florian\bin\Debug\CHAN-THU Florian.exe
+C:\Florian\Cours\Exercices VS\CHAN-THU Florian\bin\Debug\CHAN-THU Florian.pdb
+C:\Florian\Cours\Exercices VS\CHAN-THU Florian\bin\Debug\CHAN-THU Florian.xml
+C:\Florian\Cours\Exercices VS\CHAN-THU Florian\obj\Debug\CHAN-THU Florian.vbprojAssemblyReference.cache
+C:\Florian\Cours\Exercices VS\CHAN-THU Florian\obj\Debug\CHAN_THU_Florian.Resources.resources
+C:\Florian\Cours\Exercices VS\CHAN-THU Florian\obj\Debug\CHAN-THU Florian.vbproj.GenerateResource.cache
+C:\Florian\Cours\Exercices VS\CHAN-THU Florian\obj\Debug\CHAN-THU Florian.vbproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\CHAN-THU Florian\obj\Debug\CHAN-THU Florian.exe
+C:\Florian\Cours\Exercices VS\CHAN-THU Florian\obj\Debug\CHAN-THU Florian.xml
+C:\Florian\Cours\Exercices VS\CHAN-THU Florian\obj\Debug\CHAN-THU Florian.pdb

@@ -1,0 +1,11 @@
+C:\Florian\Cours\Exercices VS\test\bin\Debug\test.exe.config
+C:\Florian\Cours\Exercices VS\test\bin\Debug\test.exe
+C:\Florian\Cours\Exercices VS\test\bin\Debug\test.pdb
+C:\Florian\Cours\Exercices VS\test\bin\Debug\test.xml
+C:\Florian\Cours\Exercices VS\test\obj\Debug\test.vbprojAssemblyReference.cache
+C:\Florian\Cours\Exercices VS\test\obj\Debug\test.Resources.resources
+C:\Florian\Cours\Exercices VS\test\obj\Debug\test.vbproj.GenerateResource.cache
+C:\Florian\Cours\Exercices VS\test\obj\Debug\test.vbproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\test\obj\Debug\test.exe
+C:\Florian\Cours\Exercices VS\test\obj\Debug\test.xml
+C:\Florian\Cours\Exercices VS\test\obj\Debug\test.pdb

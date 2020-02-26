@@ -1,0 +1,7 @@
+C:\Florian\Cours\Exercices VS\Exemple Liste CS\bin\Debug\Exemple Liste CS.exe.config
+C:\Florian\Cours\Exercices VS\Exemple Liste CS\bin\Debug\Exemple Liste CS.exe
+C:\Florian\Cours\Exercices VS\Exemple Liste CS\bin\Debug\Exemple Liste CS.pdb
+C:\Florian\Cours\Exercices VS\Exemple Liste CS\obj\Debug\Exemple Liste CS.csprojAssemblyReference.cache
+C:\Florian\Cours\Exercices VS\Exemple Liste CS\obj\Debug\Exemple Liste CS.csproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\Exemple Liste CS\obj\Debug\Exemple Liste CS.exe
+C:\Florian\Cours\Exercices VS\Exemple Liste CS\obj\Debug\Exemple Liste CS.pdb

@@ -1,0 +1,7 @@
+C:\Florian\Cours\Exercices VS\Exercices CSharp\bin\Debug\Exercices CSharp.exe.config
+C:\Florian\Cours\Exercices VS\Exercices CSharp\bin\Debug\Exercices CSharp.exe
+C:\Florian\Cours\Exercices VS\Exercices CSharp\bin\Debug\Exercices CSharp.pdb
+C:\Florian\Cours\Exercices VS\Exercices CSharp\obj\Debug\Exercices CSharp.csprojAssemblyReference.cache
+C:\Florian\Cours\Exercices VS\Exercices CSharp\obj\Debug\Exercices CSharp.csproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\Exercices CSharp\obj\Debug\Exercices CSharp.exe
+C:\Florian\Cours\Exercices VS\Exercices CSharp\obj\Debug\Exercices CSharp.pdb

@@ -1,0 +1,11 @@
+C:\Florian\Cours\Exercices VS\Procedures\bin\Debug\Procedures.exe.config
+C:\Florian\Cours\Exercices VS\Procedures\bin\Debug\Procedures.exe
+C:\Florian\Cours\Exercices VS\Procedures\bin\Debug\Procedures.pdb
+C:\Florian\Cours\Exercices VS\Procedures\bin\Debug\Procedures.xml
+C:\Florian\Cours\Exercices VS\Procedures\obj\Debug\Procedures.vbprojAssemblyReference.cache
+C:\Florian\Cours\Exercices VS\Procedures\obj\Debug\Procedures.Resources.resources
+C:\Florian\Cours\Exercices VS\Procedures\obj\Debug\Procedures.vbproj.GenerateResource.cache
+C:\Florian\Cours\Exercices VS\Procedures\obj\Debug\Procedures.vbproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\Procedures\obj\Debug\Procedures.exe
+C:\Florian\Cours\Exercices VS\Procedures\obj\Debug\Procedures.xml
+C:\Florian\Cours\Exercices VS\Procedures\obj\Debug\Procedures.pdb

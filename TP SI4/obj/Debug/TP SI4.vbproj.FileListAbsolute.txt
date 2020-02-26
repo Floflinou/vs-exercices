@@ -1,0 +1,11 @@
+C:\Florian\Cours\Exercices VS\TP SI4\bin\Debug\TP SI4.exe.config
+C:\Florian\Cours\Exercices VS\TP SI4\bin\Debug\TP SI4.exe
+C:\Florian\Cours\Exercices VS\TP SI4\bin\Debug\TP SI4.pdb
+C:\Florian\Cours\Exercices VS\TP SI4\bin\Debug\TP SI4.xml
+C:\Florian\Cours\Exercices VS\TP SI4\obj\Debug\TP_SI4.Resources.resources
+C:\Florian\Cours\Exercices VS\TP SI4\obj\Debug\TP SI4.vbproj.GenerateResource.cache
+C:\Florian\Cours\Exercices VS\TP SI4\obj\Debug\TP SI4.vbproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\TP SI4\obj\Debug\TP SI4.exe
+C:\Florian\Cours\Exercices VS\TP SI4\obj\Debug\TP SI4.xml
+C:\Florian\Cours\Exercices VS\TP SI4\obj\Debug\TP SI4.pdb
+C:\Florian\Cours\Exercices VS\TP SI4\obj\Debug\TP SI4.vbprojAssemblyReference.cache

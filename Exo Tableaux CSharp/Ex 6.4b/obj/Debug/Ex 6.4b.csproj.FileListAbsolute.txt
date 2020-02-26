@@ -1,0 +1,7 @@
+C:\Florian\Cours\Exercices VS\Exo Tableaux CSharp\Ex 6.4b\bin\Debug\Ex 6.4b.exe.config
+C:\Florian\Cours\Exercices VS\Exo Tableaux CSharp\Ex 6.4b\bin\Debug\Ex 6.4b.exe
+C:\Florian\Cours\Exercices VS\Exo Tableaux CSharp\Ex 6.4b\bin\Debug\Ex 6.4b.pdb
+C:\Florian\Cours\Exercices VS\Exo Tableaux CSharp\Ex 6.4b\obj\Debug\Ex 6.4b.csprojAssemblyReference.cache
+C:\Florian\Cours\Exercices VS\Exo Tableaux CSharp\Ex 6.4b\obj\Debug\Ex 6.4b.csproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\Exo Tableaux CSharp\Ex 6.4b\obj\Debug\Ex 6.4b.exe
+C:\Florian\Cours\Exercices VS\Exo Tableaux CSharp\Ex 6.4b\obj\Debug\Ex 6.4b.pdb

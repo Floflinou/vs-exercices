@@ -1,0 +1,11 @@
+C:\Florian\Cours\Exercices VS\Correction contrôle algo\bin\Debug\Correction contrôle algo.exe.config
+C:\Florian\Cours\Exercices VS\Correction contrôle algo\bin\Debug\Correction contrôle algo.exe
+C:\Florian\Cours\Exercices VS\Correction contrôle algo\bin\Debug\Correction contrôle algo.pdb
+C:\Florian\Cours\Exercices VS\Correction contrôle algo\bin\Debug\Correction contrôle algo.xml
+C:\Florian\Cours\Exercices VS\Correction contrôle algo\obj\Debug\Correction contrôle algo.vbprojAssemblyReference.cache
+C:\Florian\Cours\Exercices VS\Correction contrôle algo\obj\Debug\Correction_contrôle_algo.Resources.resources
+C:\Florian\Cours\Exercices VS\Correction contrôle algo\obj\Debug\Correction contrôle algo.vbproj.GenerateResource.cache
+C:\Florian\Cours\Exercices VS\Correction contrôle algo\obj\Debug\Correction contrôle algo.vbproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\Correction contrôle algo\obj\Debug\Correction contrôle algo.exe
+C:\Florian\Cours\Exercices VS\Correction contrôle algo\obj\Debug\Correction contrôle algo.xml
+C:\Florian\Cours\Exercices VS\Correction contrôle algo\obj\Debug\Correction contrôle algo.pdb

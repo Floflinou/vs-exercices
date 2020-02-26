@@ -1,0 +1,9 @@
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Cache cache\bin\Debug\Cache cache.exe.config
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Cache cache\bin\Debug\Cache cache.exe
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Cache cache\bin\Debug\Cache cache.pdb
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Cache cache\obj\Debug\Cache_cache.Form1.resources
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Cache cache\obj\Debug\Cache_cache.Properties.Resources.resources
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Cache cache\obj\Debug\Cache cache.csproj.GenerateResource.cache
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Cache cache\obj\Debug\Cache cache.csproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Cache cache\obj\Debug\Cache cache.exe
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Cache cache\obj\Debug\Cache cache.pdb

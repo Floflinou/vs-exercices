@@ -1,0 +1,10 @@
+C:\Florian\Cours\Exercices VS\Exercice 2.4\bin\Debug\Exercice 2.4.exe.config
+C:\Florian\Cours\Exercices VS\Exercice 2.4\bin\Debug\Exercice 2.4.exe
+C:\Florian\Cours\Exercices VS\Exercice 2.4\bin\Debug\Exercice 2.4.pdb
+C:\Florian\Cours\Exercices VS\Exercice 2.4\bin\Debug\Exercice 2.4.xml
+C:\Florian\Cours\Exercices VS\Exercice 2.4\obj\Debug\Exercice_2._4.Resources.resources
+C:\Florian\Cours\Exercices VS\Exercice 2.4\obj\Debug\Exercice 2.4.vbproj.GenerateResource.cache
+C:\Florian\Cours\Exercices VS\Exercice 2.4\obj\Debug\Exercice 2.4.vbproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\Exercice 2.4\obj\Debug\Exercice 2.4.exe
+C:\Florian\Cours\Exercices VS\Exercice 2.4\obj\Debug\Exercice 2.4.xml
+C:\Florian\Cours\Exercices VS\Exercice 2.4\obj\Debug\Exercice 2.4.pdb

@@ -1,0 +1,11 @@
+C:\Florian\Cours\Exercices VS\7.8\bin\Debug\7.8.exe.config
+C:\Florian\Cours\Exercices VS\7.8\bin\Debug\7.8.exe
+C:\Florian\Cours\Exercices VS\7.8\bin\Debug\7.8.pdb
+C:\Florian\Cours\Exercices VS\7.8\bin\Debug\7.8.xml
+C:\Florian\Cours\Exercices VS\7.8\obj\Debug\7.8.vbprojAssemblyReference.cache
+C:\Florian\Cours\Exercices VS\7.8\obj\Debug\_7._8.Resources.resources
+C:\Florian\Cours\Exercices VS\7.8\obj\Debug\7.8.vbproj.GenerateResource.cache
+C:\Florian\Cours\Exercices VS\7.8\obj\Debug\7.8.vbproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\7.8\obj\Debug\7.8.exe
+C:\Florian\Cours\Exercices VS\7.8\obj\Debug\7.8.xml
+C:\Florian\Cours\Exercices VS\7.8\obj\Debug\7.8.pdb

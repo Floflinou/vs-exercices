@@ -1,0 +1,11 @@
+C:\Florian\Cours\Exercices VS\Exo Structure\bin\Debug\Exo Structure.exe.config
+C:\Florian\Cours\Exercices VS\Exo Structure\bin\Debug\Exo Structure.exe
+C:\Florian\Cours\Exercices VS\Exo Structure\bin\Debug\Exo Structure.pdb
+C:\Florian\Cours\Exercices VS\Exo Structure\bin\Debug\Exo Structure.xml
+C:\Florian\Cours\Exercices VS\Exo Structure\obj\Debug\Exo Structure.vbprojAssemblyReference.cache
+C:\Florian\Cours\Exercices VS\Exo Structure\obj\Debug\Exo_Structure.Resources.resources
+C:\Florian\Cours\Exercices VS\Exo Structure\obj\Debug\Exo Structure.vbproj.GenerateResource.cache
+C:\Florian\Cours\Exercices VS\Exo Structure\obj\Debug\Exo Structure.vbproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\Exo Structure\obj\Debug\Exo Structure.exe
+C:\Florian\Cours\Exercices VS\Exo Structure\obj\Debug\Exo Structure.xml
+C:\Florian\Cours\Exercices VS\Exo Structure\obj\Debug\Exo Structure.pdb

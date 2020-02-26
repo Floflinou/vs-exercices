@@ -1,0 +1,11 @@
+C:\Florian\Cours\Exercices VS\Exo 4.6\bin\Debug\Exo 4.6.exe.config
+C:\Florian\Cours\Exercices VS\Exo 4.6\bin\Debug\Exo 4.6.exe
+C:\Florian\Cours\Exercices VS\Exo 4.6\bin\Debug\Exo 4.6.pdb
+C:\Florian\Cours\Exercices VS\Exo 4.6\bin\Debug\Exo 4.6.xml
+C:\Florian\Cours\Exercices VS\Exo 4.6\obj\Debug\Exo 4.6.vbprojAssemblyReference.cache
+C:\Florian\Cours\Exercices VS\Exo 4.6\obj\Debug\Exo_4._6.Resources.resources
+C:\Florian\Cours\Exercices VS\Exo 4.6\obj\Debug\Exo 4.6.vbproj.GenerateResource.cache
+C:\Florian\Cours\Exercices VS\Exo 4.6\obj\Debug\Exo 4.6.vbproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\Exo 4.6\obj\Debug\Exo 4.6.exe
+C:\Florian\Cours\Exercices VS\Exo 4.6\obj\Debug\Exo 4.6.xml
+C:\Florian\Cours\Exercices VS\Exo 4.6\obj\Debug\Exo 4.6.pdb

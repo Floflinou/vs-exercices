@@ -1,0 +1,6 @@
+C:\Florian\Cours\Exercices VS\Ex.1\Ex. 7\bin\Debug\Ex. 7.exe.config
+C:\Florian\Cours\Exercices VS\Ex.1\Ex. 7\bin\Debug\Ex. 7.exe
+C:\Florian\Cours\Exercices VS\Ex.1\Ex. 7\bin\Debug\Ex. 7.pdb
+C:\Florian\Cours\Exercices VS\Ex.1\Ex. 7\obj\Debug\Ex. 7.csproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\Ex.1\Ex. 7\obj\Debug\Ex. 7.exe
+C:\Florian\Cours\Exercices VS\Ex.1\Ex. 7\obj\Debug\Ex. 7.pdb

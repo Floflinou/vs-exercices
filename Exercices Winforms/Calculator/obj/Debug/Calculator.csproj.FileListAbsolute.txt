@@ -1,0 +1,9 @@
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Calculator\bin\Debug\Calculator.exe.config
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Calculator\bin\Debug\Calculator.exe
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Calculator\bin\Debug\Calculator.pdb
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Calculator\obj\Debug\Calculator.exe
+C:\Florian\Cours\Exercices VS\Exercices Winforms\Calculator\obj\Debug\Calculator.pdb

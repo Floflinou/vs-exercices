@@ -1,0 +1,9 @@
+C:\Florian\Cours\Exercices VS\Exercices Winforms\usine_a_messages\bin\Debug\usine_a_messages.exe.config
+C:\Florian\Cours\Exercices VS\Exercices Winforms\usine_a_messages\bin\Debug\usine_a_messages.exe
+C:\Florian\Cours\Exercices VS\Exercices Winforms\usine_a_messages\bin\Debug\usine_a_messages.pdb
+C:\Florian\Cours\Exercices VS\Exercices Winforms\usine_a_messages\obj\Debug\usine_a_messages.Form1.resources
+C:\Florian\Cours\Exercices VS\Exercices Winforms\usine_a_messages\obj\Debug\usine_a_messages.Properties.Resources.resources
+C:\Florian\Cours\Exercices VS\Exercices Winforms\usine_a_messages\obj\Debug\usine_a_messages.csproj.GenerateResource.cache
+C:\Florian\Cours\Exercices VS\Exercices Winforms\usine_a_messages\obj\Debug\usine_a_messages.csproj.CoreCompileInputs.cache
+C:\Florian\Cours\Exercices VS\Exercices Winforms\usine_a_messages\obj\Debug\usine_a_messages.exe
+C:\Florian\Cours\Exercices VS\Exercices Winforms\usine_a_messages\obj\Debug\usine_a_messages.pdb
